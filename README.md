@@ -1,10 +1,9 @@
 # isomorphic-fetch-retry
-Simple retry method wrapping isomorphic-fetch with retry capability.
+Simple wrapper around isomorphic fetch implementing retry.
 
 Also includes a demo express server that randomly returns success or failure.
 
 ## Running
-- clone repo
 - `npm install`
 - `npm run start:api` to start the demo api
 - `npm start` to run the demo app
